@@ -1,3 +1,4 @@
+#Rama de Vivian
 from django.shortcuts import render, HttpResponseRedirect, reverse, redirect
 from .models import EmpleadoTb, UsuarioTb, CargoTb, EmpleadoxcargoTb, ProveedorTb, AccionTb, BitacoraTb, NitTb, ProductoTb, NotacompraTb, NcompraxproductoTb, NotaentradaTb, NentradaxproductoTb, AlmacenTb, LoteTb, MovimientoloteTb, NotasalidaTb, NsalidaxproductoTb, CategoriaTb, MenuTb
 import datetime
